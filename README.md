@@ -71,3 +71,4 @@
 | product_id      | INT             | id продукта    |
 | name            | VARCHAR(50)     | название товара   |
 | price           | FLOAT(4)        | цена товара |
+
